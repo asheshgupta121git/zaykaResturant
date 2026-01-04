@@ -1,7 +1,6 @@
 # Zayka Restaurant
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/asheshgupta121git/zaykaResturant.svg)](https://github.com/asheshgupta121git/zaykaResturant/issues)
+
 
 **ZaykaRestaurant** is a modern, responsive restaurant website for Zayka eatery. Built as a frontend project demonstrating HTML/CSS/JS skills for full-stack web development courses. Features menu showcase, contact forms, and smooth animations. [web:15][web:34]
 
@@ -12,7 +11,7 @@
 - Smooth scrolling and animations
 - SEO-friendly structure [web:40]
 
-## 🛠️ Tech Stack
+## Tech Stack
 | Category | Technologies |
 |----------|--------------|
 | Frontend | HTML5, CSS3, JavaScript |
@@ -20,7 +19,7 @@
 | Tools    | VS Code, Git/GitHub |
 | Deployment | GitHub Pages / Netlify | [web:32]
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Git installed
